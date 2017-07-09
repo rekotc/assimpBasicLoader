@@ -1,0 +1,115 @@
+# Blender MTL File: 'None'
+# Material Count: 10
+
+newmtl cabin_ext
+Ns 0.000000
+Ka 0.600000 0.600000 0.600000
+Kd 0.600000 0.600000 0.600000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd W:\rekotc\Downloads\vx98pvhwuh34-Locomotive_C36\Locomotive C36\Maps\C36_f.jpg
+
+newmtl cep
+Ns 0.000000
+Ka 0.600000 0.600000 0.600000
+Kd 0.600000 0.600000 0.600000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd W:\rekotc\Downloads\vx98pvhwuh34-Locomotive_C36\Locomotive C36\Maps\C36_k.bmp
+map_d W:\\rekotc\\Downloads\\vx98pvhwuh34-Locomotive_C36\\Locomotive C36\\Maps\\C36_l.bmp
+
+newmtl cupple
+Ns 0.000000
+Ka 0.600000 0.600000 0.600000
+Kd 0.600000 0.600000 0.600000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd W:\rekotc\Downloads\vx98pvhwuh34-Locomotive_C36\Locomotive C36\Maps\H.jpg
+
+newmtl lamp
+Ns 0.000000
+Ka 0.600000 0.600000 0.600000
+Kd 0.600000 0.600000 0.600000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd W:\rekotc\Downloads\vx98pvhwuh34-Locomotive_C36\Locomotive C36\Maps\C36_a.jpg
+
+newmtl left
+Ns 0.000000
+Ka 0.600000 0.600000 0.600000
+Kd 0.600000 0.600000 0.600000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd W:\rekotc\Downloads\vx98pvhwuh34-Locomotive_C36\Locomotive C36\Maps\C36_a.jpg
+
+newmtl right
+Ns 0.000000
+Ka 0.600000 0.600000 0.600000
+Kd 0.600000 0.600000 0.600000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd W:\rekotc\Downloads\vx98pvhwuh34-Locomotive_C36\Locomotive C36\Maps\C36_b.jpg
+
+newmtl shaded
+Ns 0.000000
+Ka 0.600000 0.600000 0.600000
+Kd 0.600000 0.600000 0.600000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd W:\rekotc\Downloads\vx98pvhwuh34-Locomotive_C36\Locomotive C36\Maps\C36_h.tga
+map_d W:\\rekotc\\Downloads\\vx98pvhwuh34-Locomotive_C36\\Locomotive C36\\Maps\\C36_i.bmp
+
+newmtl stupen
+Ns 0.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd W:\rekotc\Downloads\vx98pvhwuh34-Locomotive_C36\Locomotive C36\Maps\C36_d.bmp
+map_d W:\\rekotc\\Downloads\\vx98pvhwuh34-Locomotive_C36\\Locomotive C36\\Maps\\C36_e.bmp
+
+newmtl top
+Ns 0.000000
+Ka 0.600000 0.600000 0.600000
+Kd 0.600000 0.600000 0.600000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd W:\rekotc\Downloads\vx98pvhwuh34-Locomotive_C36\Locomotive C36\Maps\C36_c.jpg
+
+newmtl window
+Ns 0.000000
+Ka 0.600000 0.600000 0.600000
+Kd 0.600000 0.600000 0.600000
+Ks 0.900000 0.900000 0.900000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.700000
+illum 2
+map_Kd W:\rekotc\Downloads\vx98pvhwuh34-Locomotive_C36\Locomotive C36\Maps\C36_a.jpg
