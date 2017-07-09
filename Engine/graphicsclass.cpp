@@ -52,7 +52,7 @@ bool GraphicsClass::Initialize(int screenWidth, int screenHeight, HWND hwnd)
 	}
 
 	// Set the initial position of the camera.
-	m_Camera->SetPosition(0.0f, 0.0f, -100.0f);
+	m_Camera->SetPosition(-5.0f, 0.0f, -40.0f);
 	
 	// Create the model object.
 	m_Model = new ModelClass;
@@ -63,7 +63,7 @@ bool GraphicsClass::Initialize(int screenWidth, int screenHeight, HWND hwnd)
 
 	// Initialize the model object.
 	//result = m_Model->Initialize(m_D3D->GetDevice(), "../Engine/data/cube.txt", L"../Engine/data/seafloor.dds");
-	result = m_Model->Initialize(m_D3D->GetDevice(), "../Engine/data/deer-obj.obj", L"../Engine/data/Weapons_Axe_Tomahawk_D.dds");
+	result = m_Model->Initialize(m_D3D->GetDevice(), "../Engine/data/untitled.obj", L"../Engine/data/Weapons_Axe_Tomahawk_D.dds");
 	
 	if(!result)
 	{
@@ -95,7 +95,7 @@ bool GraphicsClass::Initialize(int screenWidth, int screenHeight, HWND hwnd)
 
 	// Initialize the light object.
 	m_Light->SetDiffuseColor(1.0f, 1.0f, 1.0f, 1.0f);
-	m_Light->SetDirection(0.0f, 0.0f, 1.0f);
+	m_Light->SetDirection(1.0f, 1.0f, 1.0f);
 
 	return true;
 }
